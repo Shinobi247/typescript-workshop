@@ -9,5 +9,5 @@
 ### Steps to run the project
 - Install Live Server
 - Run `index.html` with Live Server
-
+- Run `tsc sandbox.ts -w`
 
